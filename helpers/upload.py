@@ -42,7 +42,7 @@ async def upload_audio(client, message, file_loc):
             chat_id=message.chat.id,
             audio=file_loc,
             thumb=thumb,
-            caption="**@TroJanzHEX**",
+            caption="**@Gautam1834**",
             title=title,
             performer=artist,
             duration=duration,
